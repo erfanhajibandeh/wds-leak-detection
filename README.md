@@ -45,8 +45,6 @@ The EPANET-Matlab Toolkit utilizes the unofficial channel hosted on GitHub, whic
 
 Some parts of the EPANET-Matlab Toolkit are based on the epanet-matlab wrappers prepared by Jim Uber, available at [https://github.com/OpenWaterAnalytics/epanet-matlab](https://github.com/OpenWaterAnalytics/epanet-matlab).
 
-## License
-
 The EPANET-Matlab Toolkit is licensed under the EUPL, libepanet 1.1 or subsequent libepanets of the EUPL. You may not use this work except in compliance with the License.
 
 To view the complete license, please visit the following link: [EUPL License](http://ec.europa.eu/idabc/eupl)
