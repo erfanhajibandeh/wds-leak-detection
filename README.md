@@ -2,7 +2,7 @@
 
 ## Summary and Publication
 
-- [Pressure Zoning Approach for Leak Detection in Water Distribution Systems Based on a Multi Objective Ant Colony Optimization](https://link.springer.com/article/10.1007/s11269-018-1929-1) - Your Hajibandeh et al., Journal of Water Resources Management, 2018
+- [Pressure Zoning Approach for Leak Detection in Water Distribution Systems Based on a Multi Objective Ant Colony Optimization](https://link.springer.com/article/10.1007/s11269-018-1929-1) - Hajibandeh et al., Journal of Water Resources Management, 2018
 
 This repository contains an implementation of a Multi-Objective Optimization algorithm using a combination of Genetic Algorithm (GA) and Ant Colony Optimization (ACO). The algorithm aims to find the optimal solutions to a multi-objective problem by efficiently exploring the solution space and identifying a set of non-dominated solutions, known as the Pareto front.
 
