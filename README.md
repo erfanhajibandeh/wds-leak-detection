@@ -1,4 +1,4 @@
-# Multi-Objective Optimization using Genetic Algorithm and Ant Colony Optimization
+# Multi-Objective Optimization using Genetic Algorithm and Ant Colony Modles
 
 ## Summary and Publication
 
