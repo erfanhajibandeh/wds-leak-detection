@@ -9,7 +9,6 @@
 %
 %   https://link.springer.com/article/10.1007/s11269-018-1929-1#:~:text=In%20this%20method%2C%20the%20WDS,leakage%20values%20in%20MOACO%20algorithm.
 %
-%   Contact: erfanhajibandeh@gmail.com
 %
 %   This code implements a multi-objective genetic algorithm for leakage detection in water distribution systems. It aims to optimize the location and magnitude of leaks in the network.
 %   The algorithm uses a non-dominated sorting approach to maintain a set of Pareto-optimal solutions that represent the trade-off between multiple objectives.
