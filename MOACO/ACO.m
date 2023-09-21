@@ -10,7 +10,6 @@
 %
 %   https://link.springer.com/article/10.1007/s11269-018-1929-1#:~:text=In%20this%20method%2C%20the%20WDS,leakage%20values%20in%20MOACO%20algorithm.
 %
-%   Contact: erfanhajibandeh@gmail.com
 %
 %   This code implements a Multi-Objective Ant Colony Optimization (ACO)
 %   model for leakage detection in water distribution systems. It utilizes
